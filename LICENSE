@@ -1,0 +1,65 @@
+Shrinkray Freeware License
+Version 1.0, November 2026
+
+Copyright (c) 2026 Clarence J. All rights reserved.
+
+"Shrinkray" means the Shrinkray program (Shrinkray.exe), its README, its
+images and every other file in an official Shrinkray release.
+
+1. Free to use
+   You may download, install and use Shrinkray free of charge, for personal
+   and for commercial work, on as many computers as you like.
+
+2. Sharing
+   You may share an official release only as the original, unmodified zip,
+   with its README and SHA256SUMS.txt, and free of charge. You may not sell
+   Shrinkray, bundle it with other software, or put it behind a paywall.
+
+3. What you may not do
+   You may not:
+   a) modify, patch, crack, decompile, disassemble or reverse-engineer
+      Shrinkray, except where the law allows this despite this limit;
+   b) remove, get around or disable the donation reminder or the PRO / PRO
+      EXPERT unlock, or share keys or unlock records;
+   c) publish modified versions, or software built from Shrinkray's code;
+   d) remove or change copyright notices, or present Shrinkray as your own.
+
+4. Donations
+   Donations are voluntary gifts that support development. A donation unlocks
+   features as described in the README. It is not a purchase of Shrinkray,
+   it does not transfer any ownership, and it is not refundable. Features,
+   tiers and amounts may change in future versions.
+
+5. Other software and models
+   Shrinkray does not include llama.cpp, ROCm, GPU drivers or AI models. You
+   download them yourself, and they are covered by their own licenses and
+   terms. You are responsible for following those licenses, and the license
+   of any model you run.
+
+6. Your responsibility
+   Running large AI models puts heavy, long-lasting load on GPUs, memory,
+   drives, power supplies and networks. You run Shrinkray at your own risk.
+   You are responsible for your hardware, cooling, power, network security
+   (pooling traffic is not encrypted: keep it on a network you trust) and
+   for how you use the models and their output.
+
+7. No warranty
+   SHRINKRAY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+8. No liability
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, INCLUDING DATA LOSS, HARDWARE DAMAGE, DOWNTIME OR LOST PROFITS,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+   OR IN CONNECTION WITH SHRINKRAY OR THE USE OF OR OTHER DEALINGS IN IT.
+
+9. Ending this license
+   This license ends automatically if you break any of its terms. You must
+   then stop using Shrinkray and delete your copies.
+
+10. Changes
+   Future versions of Shrinkray may come with different license terms. The
+   terms included with a version apply to that version.
+
+By installing or using Shrinkray, you agree to these terms.
